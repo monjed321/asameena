@@ -1,10 +1,16 @@
 # Asameena
 
-**Published iOS app · iPhone & iPad**
+**B2B jewelry ordering app | Previously published for iPhone and iPad**
 
-### [View Asameena on the App Store →](https://apps.apple.com/sa/app/asameena/id6752386204)
+## User and administrator walkthrough
 
-Explore the published app's screenshots, description, and release history on Apple's official listing. The app serves partner jewelry stores; its business features require a partner-store account.
+### [Watch or download the demo video](https://github.com/monjed321/asameena/releases/download/demo-video/asameena-user-admin-demo.mp4)
+
+[Video release page](https://github.com/monjed321/asameena/releases/tag/demo-video) · 5 minutes · approximately 10 MB
+
+The iPad recording demonstrates catalog browsing, order creation and tracking, customer administration, and monthly reporting across the partner-store and manufacturer/admin interfaces. All accounts, orders and contact details shown are demonstration data, confirmed by the project owner. No business account is needed to watch.
+
+The app was previously published on the Apple App Store. It is no longer available for download following the end of the developer's Apple Developer membership. This recording shows the installed application.
 
 **Asameena** is a B2B jewelry order and workshop management application built to digitize the relationship between a small gold/jewelry manufacturer and the jewelry stores that work with it.
 
@@ -418,9 +424,9 @@ The application was successfully published on the **Apple App Store** under the 
 
 ## Asameena
 
-**[Open the official App Store listing →](https://apps.apple.com/sa/app/asameena/id6752386204)**
+[Historical App Store URL](https://apps.apple.com/sa/app/asameena/id6752386204) (no longer available for download).
 
-Available for iPhone and iPad. The listing can be viewed without signing in to the business application; it presents the published product rather than an isolated portfolio demo.
+Previously released for iPhone and iPad. See the recorded walkthrough above to explore the application.
 
 This completed the transition from an internal web project into a real mobile application available through Apple's distribution platform.
 
@@ -456,11 +462,11 @@ Most importantly, the project provided experience in continuously evolving a sof
 
 # 📌 Project Status
 
-**Production / Published**
+**Portfolio case study | Previously published on the App Store**
 
 Asameena has progressed from an initial web-based jewelry management system to a mobile application and has been published on the **Apple App Store**.
 
-Development continues as the system evolves and new improvements are introduced based on real-world usage.
+The app is currently unavailable on the App Store. This repository preserves its project story and provides a recorded walkthrough of the user and administrator workflows.
 
 ---
 
